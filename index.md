@@ -46,6 +46,7 @@ Just Bulls & Cows is a simple logical game. The goal of the game is to guess the
 [GitHub](https://github.com/VitaliyBeletskiy/AnyDice)  
 [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)  
 AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.  
+
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Worm</h4>
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/Worm)
