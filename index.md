@@ -21,6 +21,7 @@ The app counts scores during Darts training session.
 <h4><img src="images/android.png" width="25" height="14" style="float:left;">&nbsp;Just Bulls & Cows</h4>
 [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_kotlin)  
 [Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.bullscows)  
+![Image of JB&C](images/just_bulls_and_cows.png)
 Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.  
 **Tags:** Kotlin, Navigation, Safe Args, ViewModel, LiveData, Two-way Data Binding (Binding Adapters), Coroutines  
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -35,16 +36,16 @@ More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy
 
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Just Bulls & Cows</h4>
-Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.  
 [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI)  
-[AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
+[AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)  
+![Image of JB&C](images/just_bulls_and_cows.png)
+Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.  
 
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;AnyDice</h4>
-AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.  
 [GitHub](https://github.com/VitaliyBeletskiy/AnyDice)  
-[AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
-
+[AppStore](https://apps.apple.com/us/app/anydice/id1540270825)  
+AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.  
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Worm</h4>
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/Worm)
