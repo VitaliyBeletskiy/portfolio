@@ -12,6 +12,7 @@ independently on stand-alone tasks. Passionate about my work and new technologie
 <h4><img src="images/android.png" width="25" height="14" style="float:left;">&nbsp;Darts Trainig Calculator</h4>
 [GitHub](https://github.com/VitaliyBeletskiy/DartsTrainingCalculator_Android)  
 [Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.dartstrainingcalculator)  
+![Image of DTC](images/dtc_feature_graphic.png)
 The app counts scores during Darts training session.  
 **Tags:** *Kotlin, Hilt, Navigation, Safe Args, (Shared) ViewModel, LiveData, Two-way Data Binding (Binding Adapters), Room, Coroutines, Preference*  
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
