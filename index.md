@@ -31,8 +31,9 @@ Just Bulls & Cows is a simple logical game. The goal of the game is to guess the
 ### iOS projects 
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;BookTheCut</h4>
+[GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)  
+![Image of BTC](images/book_the_cut.png)
 BookTheCut is a client-side booking application which helps to book a visit to a beauty salon or a barbershop.  
-More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
 
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Just Bulls & Cows</h4>
@@ -45,11 +46,13 @@ Just Bulls & Cows is a simple logical game. The goal of the game is to guess the
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;AnyDice</h4>
 [GitHub](https://github.com/VitaliyBeletskiy/AnyDice)  
 [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)  
+![Image of AnyDice](images/any_dice.png)
 AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.  
 
 ---
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Worm</h4>
-More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/Worm)
+[GitHub](https://github.com/VitaliyBeletskiy/Worm)  
+![Image of Worm](images/worm.png)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
