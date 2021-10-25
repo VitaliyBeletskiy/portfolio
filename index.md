@@ -53,6 +53,12 @@ AnyDice is a simple and lightweight app that allows to roll any number of dices 
 <h4><img src="images/ios.png" width="13" height="16" style="float:left;">&nbsp;Worm</h4>
 [GitHub](https://github.com/VitaliyBeletskiy/Worm)  
 ![Image of Worm](images/worm.png)
+Application for educational purposes as a part of the "Programmerare iPhone och Android" course.  
+  
+Goals:
+* to learn how to use GeometryReader to get screen dimensions
+* to learn how to use GeometryReader to process screen rotation (once screen's rotated and the worm is out of the screen - it goes to the new screen center)
+* to learn shapes and some animation withour using SpriteKit.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
